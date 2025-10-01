@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/ deniseguadagnuolo-9a510a271" target="_blank">
+  <a href="https://www.linkedin.com/in/denise-guadagnuolo-9a510a271/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/dreveen?igsh=anl3MzdoNTBzcnV4" target="_blank">
