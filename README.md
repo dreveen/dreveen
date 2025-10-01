@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">Connect with me</p>
+<h2 align="center">Connect with me</h2>
 
 ###
 
@@ -46,9 +46,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/dreveen/dreveen/output/snake.svg" alt="Snake animation" />
 
 ###
